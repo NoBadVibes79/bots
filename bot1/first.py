@@ -5,8 +5,8 @@ from telebot import types
 
 
 
-bot = telebot.TeleBot('6004800515:AAHaoQJ2kgfofcjrRdQJd1IMMJP8GQKXM_M') # podklychenie tg
-me_id = "722895694" # my id
+bot = telebot.TeleBot('TOKEN') # podklychenie tg
+me_id = "my_id" # my id
 
 
 #! функция для получения message в этот же чат
