@@ -114,7 +114,7 @@ with open('data2.json', 'w', encoding='utf-8') as file:
 
 #! часть с ботом
 
-bot = telebot.TeleBot('6004800515:AAHaoQJ2kgfofcjrRdQJd1IMMJP8GQKXM_M')
+bot = telebot.TeleBot('TOKEN')
 
 
 @bot.message_handler(commands=['start'])
